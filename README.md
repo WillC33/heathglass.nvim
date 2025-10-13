@@ -167,7 +167,7 @@ The theme works out of the box with popular Neovim plugins including LSP configu
 
 ## Credits
 
-This theme was inspired by the [melange colorscheme](https://github.com/savq/melange-nvim) by savq, which introduced the brilliant principle of using warm colors for control flow and cool colors for data. The HeathGlass implementation builds on this foundation with a refined color palette focused on sea-green and lilac tones, creating a sophisticated and calming coding environment.
+This theme was inspired by the [melange colorscheme](https://github.com/savq/melange-nvim) by savq, which consciously introduced me to the brilliant principle of using warm colors for control flow and cool colors for data. The HeathGlass implementation builds on this foundation with a refined color palette focused on sea-green and lilac tones, creating a sophisticated and calming coding environment.
 
 ## License
 
